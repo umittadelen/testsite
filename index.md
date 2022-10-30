@@ -14,7 +14,8 @@
     <head>
         <script src="https://kit.fontawesome.com/26a2eb1317.js" crossorigin="anonymous"></script>
         <title>minecraft</title>
-        <link rel="shortcut icon" type="image/png" href="images/favicon.png">
+        <link rel="shortcut icon" type="image/png" href="images/favicon.png?">
+        <link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico?">
         <link href="css/stylesheet.css" rel="stylesheet"/>
         <link href="css/sliced_btn.css" rel="stylesheet"/>
         
