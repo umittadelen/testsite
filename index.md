@@ -28,7 +28,7 @@
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus voluptates sit, beatae vel est facilis, optio dolor molestias nam repellendus praesentium reprehenderit deserunt molestiae, eveniet ratione alias nesciunt ut eius.</p>
             
             <div class="wrapper">
-                <a href="https://www.minecraft.net"><span>minecraft.net</span></a>
+                <a href="https://www.minecraft.net"><span>minecraft.net</span></a><a href="https://github.com/umit-09/testsite/"><span>github page</span></a>
             </div>
         </div>  
     </body>
