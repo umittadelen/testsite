@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-
 <style>
     .container{
         width: 500px; /*ortalanacak div genişliği*/
